@@ -4,3 +4,4 @@ Git is free software add Git and windows and linux.
 35555333333
 featurel
 --no--ff
+/c/User/admin../learngigt/readme.txt
