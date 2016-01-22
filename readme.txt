@@ -5,3 +5,5 @@ Git is free software add Git and windows and linux.
 featurel
 --no--ff
 /c/User/admin../learngigt/readme.txt
+/e/git/learngit/redadme.txt
+
